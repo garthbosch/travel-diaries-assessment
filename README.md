@@ -50,7 +50,7 @@ For Windows:
     https://git-scm.com/download/win
     
 ## Clone WEB UI Test GIT Repository:
-    git clone https://github.com/jacqueswest/web_ui_tests.git
+    git clone https://github.com/garthbosch/travel-diaries-assessment.git
     
 ## Install Required Python Packages:
 From the root of the repository run:
