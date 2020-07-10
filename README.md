@@ -45,9 +45,8 @@ From _cmd_, execute:
     python -m pip install --upgrade pip
 
 ## Install GIT(_If not installed_)
-For Windows:
-    
-    https://git-scm.com/download/win
+1. Download from here: https://git-scm.com/download/win
+2. Run the downloaded .exe file
     
 ## Clone WEB UI Test GIT Repository:
     git clone https://github.com/garthbosch/travel-diaries-assessment.git
