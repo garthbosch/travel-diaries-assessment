@@ -1,0 +1,17 @@
+{
+    "home": {
+        "contact_us_link": ["xpath", "//li[1]/a[@href='/en/contact']"]
+    },
+
+    "contact_us": {
+        "contact_box": ["xpath", "//div[@class='contact-box']"],
+        "name_textbox": ["name", "Name"],
+        "email_textbox": ["name", "Email"],
+        "message_textbox": ["id", "contact-message"],
+        "send_message_button": ["xpath", "//button[@type='submit']"]
+    },
+
+    "general": {
+        "page_title": ["xpath", "//h1"]
+    }
+}

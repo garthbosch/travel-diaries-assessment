@@ -1,0 +1,5 @@
+{
+  "chrome_path": "PASTE CHROME PATH",
+  "url": "https://web-test.traveldiariesapp.com/en",
+  "reports": "./reports/"
+}
